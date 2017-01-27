@@ -28,11 +28,11 @@ http://blog.terranillius.com/post/composev3_swarm/
  - http://cyberzoide.developpez.com/graphviz/#LVI-B
  - http://www.graphviz.org/content/command-line-invocation
 
-**Today's Progress**:
+**Today's Progress**: Did a script to generate *.dot file to make a tree graph from a folder recursive walk
 
-**Thoughts:** 
+**Thoughts:** Really hard to be efficient when it's late
 
-**Link to work:** 
+**Link to work:**  
 
 
 
