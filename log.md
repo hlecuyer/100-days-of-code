@@ -11,7 +11,7 @@ https://www.baptiste-donaux.fr/tutoriel-docker-symfony-docker-compose/
 https://github.com/hlecuyer/100-days-of-code/commit/20bf8b03a7d3b0e16b371f97ce0d0743725b97ff
 
 
-### Day : January 26, 2017 
+### Day 2: January 26, 2017 
 
 **Today's Progress**: Still learn about docker, for complex build with multiple images. I wanted to make a buid with a nodeJs project of a friend
 
@@ -19,6 +19,20 @@ https://github.com/hlecuyer/100-days-of-code/commit/20bf8b03a7d3b0e16b371f97ce0d
 
 **Link to work:** https://github.com/aanand/compose-file/blob/master/schema/data/config_schema_v3.0.json
 http://blog.terranillius.com/post/composev3_swarm/
+
+
+### Day 3: January 27, 2017 
+
+**to do**: script to transform a tress folder into a graph
+ - http://graphviz.org/Documentation/dotguide.pdf
+ - http://cyberzoide.developpez.com/graphviz/#LVI-B
+ - http://www.graphviz.org/content/command-line-invocation
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
 
 
 
