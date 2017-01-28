@@ -34,5 +34,13 @@ http://blog.terranillius.com/post/composev3_swarm/
 
 **Link to work:**  https://github.com/hlecuyer/100-days-of-code/commit/2eaa961e23df486429ba48e01c11a772f94089f9
 
+### Day 3: January 27, 2017 
+
+**Today's Progress**: I started from scratch tutorial to learn some front
+
+**Thoughts:** kind of a waste because i pretty much knows the stuff already, but i like to accomplsh the entire courses 
+
+**Link to work:**  https://www.freecodecamp.com
+
 
 
