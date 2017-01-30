@@ -54,7 +54,7 @@ http://blog.terranillius.com/post/composev3_swarm/
 
 **Today's Progress**: Same old :) I finished the fisrt tutorials. Real code start now :)
 
-**Thoughts:** I always find it hard to start a project. It's somethingn i need to improve.
+**Thoughts:** I always find it hard to start a project. It's somethings i need to improve.
 
 **Link to work:**  https://www.freecodecamp.com
 
