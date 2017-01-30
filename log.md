@@ -34,7 +34,7 @@ http://blog.terranillius.com/post/composev3_swarm/
 
 **Link to work:**  https://github.com/hlecuyer/100-days-of-code/commit/2eaa961e23df486429ba48e01c11a772f94089f9
 
-### Day 4: January 27, 2017 
+### Day 4: January 28, 2017 
 
 **Today's Progress**: I started from scratch tutorial to learn some front
 
@@ -42,7 +42,7 @@ http://blog.terranillius.com/post/composev3_swarm/
 
 **Link to work:**  https://www.freecodecamp.com
 
-### Day 5: January 27, 2017 
+### Day 5: January 29, 2017 
 
 **Today's Progress**: Still learning about front on freecodefront
 
@@ -50,5 +50,12 @@ http://blog.terranillius.com/post/composev3_swarm/
 
 **Link to work:**  https://www.freecodecamp.com
 
+### Day 6: January 30, 2017 
+
+**Today's Progress**: Same old :) I finished the fisrt tutorials. Real code start now :)
+
+**Thoughts:** I always find it hard to start a project. It's somethingn i need to improve.
+
+**Link to work:**  https://www.freecodecamp.com
 
 
