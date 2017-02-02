@@ -58,4 +58,16 @@ http://blog.terranillius.com/post/composev3_swarm/
 
 **Link to work:**  https://www.freecodecamp.com
 
+### Day 7: January 31, 2017 
+
+**Today's Progress**: Tring to reproduce [this](https://codepen.io/freeCodeCamp/full/NNvBQW). Not finished yet.
+
+**Link to work:**  https://www.freecodecamp.com
+
+### Day 8: February 1, 2017 
+
+**Today's Progress**: I finished it. [Here it is](https://codepen.io/hlecuyer/full/vgpVKg/) :)
+
+**Link to work:**  https://www.freecodecamp.com
+
 
